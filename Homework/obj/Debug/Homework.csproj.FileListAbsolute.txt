@@ -1,0 +1,10 @@
+E:\Desktop app\Homework\Homework\bin\Debug\Homework.exe.config
+E:\Desktop app\Homework\Homework\bin\Debug\Homework.exe
+E:\Desktop app\Homework\Homework\bin\Debug\Homework.pdb
+E:\Desktop app\Homework\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+E:\Desktop app\Homework\Homework\obj\Debug\Homework.BT.resources
+E:\Desktop app\Homework\Homework\obj\Debug\Homework.Properties.Resources.resources
+E:\Desktop app\Homework\Homework\obj\Debug\Homework.csproj.GenerateResource.cache
+E:\Desktop app\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+E:\Desktop app\Homework\Homework\obj\Debug\Homework.exe
+E:\Desktop app\Homework\Homework\obj\Debug\Homework.pdb
